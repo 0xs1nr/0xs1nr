@@ -47,22 +47,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-
-<h3 align="center">Desktop Choices:</h3>
-
-<p align="center">
-   <a href="https://wiki.archlinux.org/title/Main_page" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://swaywm.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/swaywm/sway/refs/heads/master/assets/Sway_Tree.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://neovim.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
 ------
 
 <picture align="center">
