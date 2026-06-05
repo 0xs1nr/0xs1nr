@@ -2,11 +2,11 @@
 <h3 align="center">👨‍💻 A Cybersecurity enthusiast </h3>
 <h3 align="center">📚 Currently graduating in Computer Science at USP</h3>
 
-- 🔭 My main areas of interest are **Reverse Engineering, Pwn, Operating Systems, Open Source Software and Hardware, Competitive Programming, Computer Networks and Cryptography**
+- 🔭 My main areas of interest are **Reverse Engineering, Pwn, Operating Systems, Open Source Software and Hardware, Electronics, Computer Networks and Cryptography**
 
 - ⚡ Some of my hobbies are **Playing CTFs, Ricing my Desktop and, ocassionally, Playing Bass**
 
-- 📫 How to reach me: **ryansulino.out@gmail.com**
+- 📫 How to reach me: **0xs1nr@proton.me**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
